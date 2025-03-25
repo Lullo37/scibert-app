@@ -1,0 +1,6 @@
+streamlit
+torch
+transformers
+PyMuPDF
+scikit-learn
+matplotlib
